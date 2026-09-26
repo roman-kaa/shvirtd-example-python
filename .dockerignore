@@ -1,0 +1,10 @@
+.git
+.env
+.venv
+venv
+__pycache__
+*.pyc
+*.pdf
+docker_volumes
+.idea
+.vscode
